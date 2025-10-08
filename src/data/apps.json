@@ -1,0 +1,219 @@
+
+[
+  {
+    "image": "https://i.ibb.co.com/fV8349MF/demo-app-1.webp",
+    "title": "Note Wizard",
+    "companyName": "Nimbus Inc",
+    "id": 1,
+    "description": "Note Wizard is a powerful yet lightweight note-taking application designed for users who need a simple, efficient way to capture thoughts, ideas, and tasks. With full markdown support, intuitive organization features, and seamless cloud synchronization, users can effortlessly create, edit, and manage notes on multiple devices. Whether for school, work, or personal projects, Note Wizard ensures that every idea is stored, searchable, and accessible whenever you need it.",
+    "size": 24,
+    "reviews": 152,
+    "ratingAvg": 4.5,
+    "downloads": "12M",
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 7 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 50 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MkF20TWs/demo-app-2.webp",
+    "title": "FitPro",
+    "companyName": "HealthLab",
+    "id": 2,
+    "description": "FitPro is an advanced workout planner and calorie tracker designed to help fitness enthusiasts achieve their health goals effectively. The app offers customized exercise routines, nutrition guidance, and progress tracking, all presented in a visually intuitive interface. Users can set goals, log workouts, track calories burned, and monitor progress over time. FitPro is perfect for beginners and advanced users seeking a comprehensive tool to improve strength, endurance, and overall wellness consistently.",
+    "size": 40,
+    "reviews": 240,
+    "ratingAvg": 4.7,
+    "downloads": "8.3M",
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 6 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 130 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/99ccHhTR/demo-app-3.webp",
+    "title": "PhotoForge",
+    "companyName": "PixelWorks",
+    "id": 3,
+    "description": "PhotoForge is a simple yet powerful photo editor designed for both casual users and professional creators who need quick, effective image enhancement tools. With a variety of editing options including filters, adjustments, cropping, and retouching, users can transform ordinary photos into striking visuals. The app emphasizes ease of use, speed, and portability, allowing users to edit photos on the go without sacrificing quality. PhotoForge makes creative expression accessible anywhere and anytime with professional-grade results.",
+    "size": 68,
+    "reviews": 980,
+    "ratingAvg": 4.3,
+    "downloads": "5.3M",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 510 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/r2GKfMq8/demo-app-4.webp",
+    "title": "PocketFinance",
+    "companyName": "Ledger Co.",
+    "id": 4,
+    "description": "PocketFinance is a comprehensive personal finance manager that helps users track expenses, manage budgets, and plan savings effectively. The app provides tools for categorizing transactions, setting financial goals, monitoring spending habits, and generating insightful reports. Designed for individuals seeking full control over their finances, PocketFinance delivers intuitive dashboards, clear visualizations, and actionable insights. Users can make smarter financial decisions, stay on top of bills, and achieve long-term stability while effortlessly managing daily money matters.",
+    "size": 18,
+    "reviews": 410,
+    "ratingAvg": 4.1,
+    "downloads": "2.7M",
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 128 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KxM5b7BS/demo-app-5.webp",
+    "title": "StudyBuddy",
+    "companyName": "EduSphere",
+    "id": 5,
+    "description": "StudyBuddy is an all-in-one study companion designed to help students organize learning efficiently. It provides tools for creating flashcards, managing timetables, tracking study sessions, and reviewing content with personalized quizzes. With a clean, intuitive interface, StudyBuddy makes learning more structured and engaging, helping users retain knowledge and stay on top of assignments. It is ideal for students seeking a consistent, interactive method to improve academic performance and develop effective study habits.",
+    "size": 12,
+    "reviews": 60,
+    "ratingAvg": 4.0,
+    "downloads": "9K",
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 4 },
+      { "name": "3 star", "count": 12 },
+      { "name": "4 star", "count": 20 },
+      { "name": "5 star", "count": 22 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/jvVJMFzw/demo-app-6.webp",
+    "title": "TravelMap",
+    "companyName": "Wander Ltd",
+    "id": 6,
+    "description": "TravelMap is a versatile travel planning app that allows users to design trips, explore destinations, and collaborate with friends for shared adventures. With interactive maps, itinerary planning tools, and real-time location features, it ensures travelers can organize schedules efficiently. The app also provides tips, suggestions, and personalized recommendations for restaurants, attractions, and accommodations. Whether for short getaways or long journeys, TravelMap makes travel planning simple, fun, and highly interactive for individuals and groups alike.",
+    "size": 30,
+    "reviews": 310,
+    "ratingAvg": 4.6,
+    "downloads": "6.4K",
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 166 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/FLhn0nHQ/demo-app-7.jpg",
+    "title": "FreeFire",
+    "companyName": "Garena",
+    "id": 7,
+    "description": "FreeFire is a dynamic mobile game providing fast-paced action, strategy, and immersive gameplay for enthusiasts of battle royale experiences. Players can join matches with friends or compete globally, unlock characters, customize gear, and use tactical skills to survive and win. The app features regular updates, events, and competitive rankings, ensuring players remain engaged and challenged. FreeFire delivers thrilling entertainment for casual and hardcore gamers, combining strategy, reflexes, and teamwork in an adrenaline-fueled gaming environment.",
+    "size": 55,
+    "reviews": 1250,
+    "ratingAvg": 4.8,
+    "downloads": "1.4M",
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 210 },
+      { "name": "5 star", "count": 962 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/SDz5WRnC/demo-app-15.png",
+    "title": "Call of Duty",
+    "companyName": "Kitchenly",
+    "id": 8,
+    "description": "Call of Duty is an interactive gaming app offering thrilling multiplayer experiences with immersive graphics, realistic sound, and tactical missions. Players can compete in various modes, upgrade weapons, customize characters, and join teams to achieve objectives. The app emphasizes strategy, skill, and fast reflexes while providing a highly engaging environment for both casual and competitive gamers. Regular events, updates, and challenges make Call of Duty a consistently entertaining and competitive gaming experience across mobile platforms.",
+    "size": 22,
+    "reviews": 310,
+    "ratingAvg": 4.2,
+    "downloads": "35k",
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 120 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DgwSKf0T/demo-app-10.png",
+    "title": "MusicStream",
+    "companyName": "BeatBox",
+    "id": 9,
+    "description": "MusicStream is a robust music streaming platform offering curated playlists, personalized recommendations, and high-quality audio for listeners of all genres. Users can explore trending songs, create custom playlists, follow favorite artists, and enjoy offline listening. The app emphasizes ease of discovery, social sharing, and seamless playback across devices. MusicStream ensures a rich musical experience, helping users relax, energize, or focus while providing access to an expansive library of tracks, albums, and live sessions from around the world.",
+    "size": 120,
+    "reviews": 5200,
+    "ratingAvg": 4.4,
+    "downloads": "32K",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 2700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Y7B21NcZ/demo-app-11.webp",
+    "title": "WeatherNow",
+    "companyName": "SkyCast",
+    "id": 10,
+    "description": "WeatherNow provides real-time weather updates with accurate forecasts, alerts, and detailed meteorological data. Users can monitor temperature, precipitation, wind, and humidity levels, as well as receive severe weather warnings. The app offers interactive radar maps, hourly and weekly predictions, and customizable notifications to stay prepared. Designed for everyday use, WeatherNow ensures that individuals, travelers, and outdoor enthusiasts can plan activities safely and efficiently, relying on accurate, timely, and user-friendly weather information at their fingertips.",
+    "size": 10,
+    "reviews": 90,
+    "ratingAvg": 3.9,
+    "downloads": "1.5K",
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 20 },
+      { "name": "5 star", "count": 20 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1Y7VfSK9/demo-app-13.png",
+    "title": "ChatConnect",
+    "companyName": "CommsX",
+    "id": 11,
+    "description": "ChatConnect is a secure messaging platform designed for private and group conversations. It offers end-to-end encryption, file sharing, voice and video calls, and real-time notifications. Users can create groups, customize chats, and maintain seamless communication across devices. The app prioritizes security, reliability, and ease of use, making it ideal for personal, professional, or organizational communication. ChatConnect ensures that conversations remain confidential, accessible, and synchronized, fostering efficient and safe messaging for users worldwide.",
+    "size": 80,
+    "reviews": 400,
+    "ratingAvg": 4.1,
+    "downloads": "42K",
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 120 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Mx4prrJK/demo-app-14.jpg",
+    "title": "TaskFlow",
+    "companyName": "Productive",
+    "id": 12,
+    "description": "TaskFlow is a Kanban-based task manager designed for teams and individuals to organize projects efficiently. Users can create boards, assign tasks, set deadlines, track progress, and collaborate seamlessly. The app provides visual workflow management, notifications, and reporting tools to enhance productivity. TaskFlow is ideal for professionals, students, and teams seeking a structured, intuitive, and highly interactive platform to manage work, streamline processes, and ensure tasks are completed on time with maximum efficiency and minimal stress.",
+    "size": 25,
+    "reviews": 730,
+    "ratingAvg": 4.5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 400 }
+    ]
+  }
+]
