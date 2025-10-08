@@ -1,6 +1,5 @@
 import React from "react";
 import Banner from "../components/Banner";
-// import StateCards from "../components/StateCard";
 import TopApps from "../components/TopApps";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
@@ -12,7 +11,6 @@ export default function Home(){
       <Header />
       <main className="flex-1">
         <Banner />
-        {/* <StateCards /> */}
         <TopApps apps={data} />
       </main>
       <Footer />

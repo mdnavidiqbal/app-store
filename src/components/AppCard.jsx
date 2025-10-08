@@ -22,7 +22,6 @@ export default function AppCard({ app }) {
         <img src={app.image} alt={app.title} className="w-full h-full object-cover rounded-md" />
         <div>
           <div className="font-semibold flex items-center gap-1.5">{app.title} : <div className="text-xs text-gray-500">{app.companyName}</div></div>
-          {/* <div className="text-xs text-gray-500">{app.companyName}</div> */}
         </div>
       </div>
       <div className="mt-3 flex items-center justify-between text-sm text-gray-600">

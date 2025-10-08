@@ -13,7 +13,6 @@ export default function AllApps(){
   const [query, setQuery] = useState("");
   const [filtered, setFiltered] = useState(data);
   const [sortBy, setSortBy] = useState(""); 
-  // const { loading, setLoading } = useContext(LoadingContext);
   const [searchLoading, setSearchLoading] = useState(false);
 
   useEffect(() => {
@@ -22,7 +21,6 @@ export default function AllApps(){
   }, []);
 
   useEffect(() => {
-    // live search with artificial small delay to show loading animation
     setSearchLoading(true);
     const t = setTimeout(() => {
       const q = query.trim().toLowerCase();

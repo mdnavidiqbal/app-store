@@ -42,14 +42,12 @@ export default function MyInstallation() {
                 key={app.id}
                 className="w-full bg-white p-6 rounded shadow flex flex-col sm:flex-row items-center sm:items-start justify-between"
               >
-                {/* Left section: Image */}
                 <img
                   src={app.image}
                   alt={app.title}
                   className="w-24 h-24 rounded object-cover flex-shrink-0"
                 />
 
-                {/* Middle section: Title, Company, Downloads & Rating */}
                 <div className="flex-1 sm:ml-6 mt-4 sm:mt-0 text-center sm:text-left">
                   <div className="font-semibold text-xl">{app.title}</div>
                   <div className="text-sm text-gray-500 mt-1">{app.companyName}</div>
@@ -62,7 +60,7 @@ export default function MyInstallation() {
                   </div>
                 </div>
 
-                {/* Right section: Uninstall button */}
+
                 <button
                   onClick={() => handleUninstall(app.id)}
                   className="mt-4 sm:mt-0 px-5 py-2 bg-green-600 text-white rounded text-sm font-medium"

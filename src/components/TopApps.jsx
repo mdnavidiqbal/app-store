@@ -12,7 +12,6 @@ export default function TopApps({ apps = [] }) {
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
         {top.map(a => <AppCard key={a.id} app={a} />)}
       </div>
-       {/* <a href="/apps" className="text-sm text-blue-600">Show All</a> */}
         <div className="container text-center">
             <button className="w-25 h-10 bg-gradient-to-r from-[#632ee3] to-[#9f62f2] items-center text-center mt-5 mx-auto container rounded-sm"> <a href="/apps" className="text-sm text-white">Show All</a> </button>
         </div>
